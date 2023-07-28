@@ -10,7 +10,7 @@ C:\Program Files\OpenVPN\config
 
 C:\Program Files (x86)\OpenVPN\config
 
-C:\Users\%username%\OpenVPN\config
+C:\Users\ %username% \OpenVPN\config
 
 
 После как найдет файлы выведит на экран список найденых Файлов конфигурации OpenVPN
